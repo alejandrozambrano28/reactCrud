@@ -1,0 +1,26 @@
+{
+  "name": "ReactApp",
+  "version": "1.0.0",
+  "description": "This is a React App",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "flux": "^3.1.0",
+    "fs": "0.0.1-security",
+    "jquery": "^3.1.0",
+    "key-mirror": "^1.0.1",
+    "net": "^1.0.2",
+    "object-assign": "^4.1.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "reflux": "^0.4.1",
+    "request": "^2.75.0",
+    "tls": "0.0.1",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.1"
+  }
+}
