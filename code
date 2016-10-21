@@ -1,0 +1,15 @@
+https://haskell-dojo.herokuapp.com/menus
+body
+json
+
+POST /menus HTTP/1.1
+Host: haskell-dojo.herokuapp.com
+Content-Type: application/json
+restaurant: 1
+name: isgbsyb
+price: 50000
+description: igbylguofg
+Cache-Control: no-cache
+Postman-Token: 69635138-1645-b799-5d7e-7b74d7fad0f9
+
+{"restaurant":1,"name":"alguna cosa","price":551515671,"description":"fuvsdfukyvskf"}
